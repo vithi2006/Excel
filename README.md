@@ -58,7 +58,8 @@ In this project, I:
 * used the SWITCH function to categorise the sales into high, medium and low sales volumes
 * used a Pivot Table to show the different sales in different regions
 
-Here are the screen shots of the results:
+
+
 ![pivot 3](https://github.com/user-attachments/assets/526cfd70-c9dd-4f67-82c4-d09652e6925c)
 
 
