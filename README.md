@@ -31,6 +31,8 @@ In this project, I:
 * use conditional formatting to identify the highest and lowest average scores
 
 Here is the screen shot of the result:
+
+
 ![conditional](https://github.com/user-attachments/assets/79375405-5868-442d-8220-49acb3ebceac)
 
 
@@ -43,6 +45,8 @@ In this project, I:
 * used the pivot table to produce a stacked bar chart to show which genders in which age groups had highest sales in each area
 
 Here is the screen shot of the result:
+
+
 ![pivot table 1](https://github.com/user-attachments/assets/c68269d7-5033-4246-845a-8d1f1b0b93a3)
 
 ![pivot 2](https://github.com/user-attachments/assets/e6351456-1a3e-4cab-9ce3-81ee165775f7)
