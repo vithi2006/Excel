@@ -12,7 +12,8 @@ In this project, I:
 * used the SUM function to find the commission total
 * used the AVERAGE function to find the average commission
 
-Here is the screen shot of the result:![retail sales1](https://github.com/user-attachments/assets/1cd5dec4-502f-421e-882d-13427107f282)
+Here is the screen shot of the result:
+![retail sales1](https://github.com/user-attachments/assets/1cd5dec4-502f-421e-882d-13427107f282)
 
 
 
@@ -29,7 +30,8 @@ In this project, I:
 * sorted by finding the best student in the class by highest score
 * use conditional formatting to identify the highest and lowest average scores
 
-Here is the screen shot of the result:![conditional](https://github.com/user-attachments/assets/79375405-5868-442d-8220-49acb3ebceac)
+Here is the screen shot of the result:
+![conditional](https://github.com/user-attachments/assets/79375405-5868-442d-8220-49acb3ebceac)
 
 
 ## Project 3: Using Pivot Tables
@@ -40,7 +42,8 @@ In this project, I:
 * created a pviot table using the age group, gender and location columns
 * used the pivot table to produce a stacked bar chart to show which genders in which age groups had highest sales in each area
 
-Here is the screen shot of the result:![pivot table 1](https://github.com/user-attachments/assets/c68269d7-5033-4246-845a-8d1f1b0b93a3)
+Here is the screen shot of the result:
+![pivot table 1](https://github.com/user-attachments/assets/c68269d7-5033-4246-845a-8d1f1b0b93a3)
 
 ![pivot 2](https://github.com/user-attachments/assets/e6351456-1a3e-4cab-9ce3-81ee165775f7)
 
@@ -51,7 +54,8 @@ In this project, I:
 * used the SWITCH function to categorise the sales into high, medium and low sales volumes
 * used a Pivot Table to show the different sales in different regions
 
-Here are the screen shots of the results:![pivot 3](https://github.com/user-attachments/assets/526cfd70-c9dd-4f67-82c4-d09652e6925c)
+Here are the screen shots of the results:
+![pivot 3](https://github.com/user-attachments/assets/526cfd70-c9dd-4f67-82c4-d09652e6925c)
 
 
 ## Project 5: Showing visualisations
@@ -63,5 +67,7 @@ In this project, I:
 * created a bar chart to show the Revenue by Country
 * created a pie chart to show comparisons between age groups
 
-Here are the screen shots of the results:![excel visualization](https://github.com/user-attachments/assets/a580b898-dbfc-40c0-bde5-62d8ac9db226)
+Here are the screen shots of the results:
+
+![excel visualization](https://github.com/user-attachments/assets/a580b898-dbfc-40c0-bde5-62d8ac9db226)
 ![visualization 2](https://github.com/user-attachments/assets/27046b14-106d-48d6-b339-fb2590e9fb94)
