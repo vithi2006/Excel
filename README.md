@@ -54,8 +54,8 @@ In this project, I:
 Here are the screen shots of the results:
 https://github.com/vithi2006/Excel/blob/main/pivot%202.png
 
-https://github.com/vithi2006/Excel/blob/main/pivot%203.png
-
+[https://github.com/vithi2006/Excel/blob/main/pivot%203.png
+](https://github.com/vithi2006/Excel/blob/main/pivot%203.png)
 
 ## Project 5: Showing visualisations
 
