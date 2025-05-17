@@ -2,7 +2,7 @@
 # Excel Analysis
 This is work that I did in Excel during my Data Technician Skills Bootcamp.
 
-## Project 1: First use of aggregate values
+## Project 1: First use of 'Filter, SUM and AVERAGE'
 
 This project used the retail_sales dataset: [retail_sales_dataset_Master.xlsx](https://github.com/user-attachments/files/20266770/retail_sales_dataset_Master.xlsx)
 
