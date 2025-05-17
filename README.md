@@ -4,7 +4,7 @@ This is work that I did in Excel during my Data Technician Skills Bootcamp.
 
 ## Project 1: First use of aggregate values
 
-This project used the retail_sales dataset: [retail_sales_dataset.xlsx]https://github.com/vithi2006/Excel/blob/main/retail_sales_dataset_Master.xlsx 
+This project used the retail_sales dataset: [retail_sales_dataset_Master.xlsx](https://github.com/user-attachments/files/20266770/retail_sales_dataset_Master.xlsx)
 
 In this project, I:
 * converted the data to a table
@@ -12,8 +12,9 @@ In this project, I:
 * used the SUM function to find the commission total
 * used the AVERAGE function to find the average commission
 
-Here is the screen shot of the result:
-https://github.com/vithi2006/Excel/blob/main/retail%20sales1.png 
+Here is the screen shot of the result:![retail sales1](https://github.com/user-attachments/assets/1cd5dec4-502f-421e-882d-13427107f282)
+
+
 
 
 ## Project 2: Use of conditional formatting
@@ -29,7 +30,8 @@ In this project, I:
 * use conditional formatting to identify the highest and lowest average scores
 
 Here is the screen shot of the result:
-https://github.com/vithi2006/Excel/blob/main/conditional.png
+
+![conditional](https://github.com/user-attachments/assets/79375405-5868-442d-8220-49acb3ebceac)
 
 
 ## Project 3: Using Pivot Tables
@@ -41,8 +43,9 @@ In this project, I:
 * used the pivot table to produce a stacked bar chart to show which genders in which age groups had highest sales in each area
 
 Here is the screen shot of the result:
-https://github.com/vithi2006/Excel/blob/main/pivot%20table%201.png
+![pivot table 1](https://github.com/user-attachments/assets/c68269d7-5033-4246-845a-8d1f1b0b93a3)
 
+![pivot 2](https://github.com/user-attachments/assets/e6351456-1a3e-4cab-9ce3-81ee165775f7)
 
 ## Project 4: Using Pivot Tables and SWITCH functions
 
@@ -52,10 +55,8 @@ In this project, I:
 * used a Pivot Table to show the different sales in different regions
 
 Here are the screen shots of the results:
-https://github.com/vithi2006/Excel/blob/main/pivot%202.png
+![pivot 3](https://github.com/user-attachments/assets/526cfd70-c9dd-4f67-82c4-d09652e6925c)
 
-[https://github.com/vithi2006/Excel/blob/main/pivot%203.png
-](https://github.com/vithi2006/Excel/blob/main/pivot%203.png)
 
 ## Project 5: Showing visualisations
 
@@ -67,6 +68,5 @@ In this project, I:
 * created a pie chart to show comparisons between age groups
 
 Here are the screen shots of the results:
-https://github.com/vithi2006/Excel/blob/main/excel%20visualization.png
-
-https://github.com/vithi2006/Excel/blob/main/visualization%202.png
+![excel visualization](https://github.com/user-attachments/assets/a580b898-dbfc-40c0-bde5-62d8ac9db226)
+![visualization 2](https://github.com/user-attachments/assets/27046b14-106d-48d6-b339-fb2590e9fb94)
