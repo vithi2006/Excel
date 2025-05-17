@@ -4,7 +4,7 @@ This is work that I did in Excel during my Data Technician Skills Bootcamp.
 
 ## Project 1: First use of aggregate values
 
-This project used the retail_sales dataset: [retail_sales_dataset.xlsx]
+This project used the retail_sales dataset: [retail_sales_dataset.xlsx]https://github.com/vithi2006/Excel/blob/main/retail_sales_dataset_Master.xlsx 
 
 In this project, I:
 * converted the data to a table
@@ -18,7 +18,7 @@ Here is the screen shot of the result:
 
 ## Project 2: Use of conditional formatting
 
-This project used the student_scores dataset: [student_scores.xlsx](https://github.com/user-attachments/files/18151967/student_scores.xlsx)
+This project used the student_scores dataset
 
 In this project, I:
 * applied a filter and sorting to show the best students in each subject
@@ -29,12 +29,12 @@ In this project, I:
 * use conditional formatting to identify the highest and lowest average scores
 
 Here is the screen shot of the result:
-![2_retail_sales_2](https://github.com/user-attachments/assets/1ab72804-fae7-4c25-acbf-fe69bca1702d)
+
 
 
 ## Project 3: Using Pivot Tables
 
-This project used the Bike_Sales_Pivot dataset: [Bike_Sales_Pivot.xlsx](https://github.com/user-attachments/files/18151985/Bike_Sales_Pivot.xlsx)
+This project used the Bike_Sales_Pivot dataset: 
 
 In this project, I:
 * created a pviot table using the age group, gender and location columns
