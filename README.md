@@ -13,7 +13,7 @@ In this project, I:
 * used the AVERAGE function to find the average commission
 
 Here is the screen shot of the result:
-![1_retail_sales_1](https://github.com/user-attachments/assets/d8affe22-379a-460a-9c5c-16b8cb0966b0)
+https://github.com/vithi2006/Excel/blob/main/retail%20sales1.png 
 
 
 ## Project 2: Use of conditional formatting
@@ -29,7 +29,7 @@ In this project, I:
 * use conditional formatting to identify the highest and lowest average scores
 
 Here is the screen shot of the result:
-
+https://github.com/vithi2006/Excel/blob/main/conditional.png
 
 
 ## Project 3: Using Pivot Tables
@@ -41,26 +41,25 @@ In this project, I:
 * used the pivot table to produce a stacked bar chart to show which genders in which age groups had highest sales in each area
 
 Here is the screen shot of the result:
-![3_Bike_sales_pivot_1](https://github.com/user-attachments/assets/9256183d-d363-47f0-9e68-3144763c101c)
+https://github.com/vithi2006/Excel/blob/main/pivot%20table%201.png
 
 
 ## Project 4: Using Pivot Tables and SWITCH functions
 
-This project used the Product_Sales dataset: [Product_Sales.xlsx](https://github.com/user-attachments/files/18152291/Product_Sales.xlsx)
-
+This project used the Product_Sales dataset: 
 In this project, I:
 * used the SWITCH function to categorise the sales into high, medium and low sales volumes
 * used a Pivot Table to show the different sales in different regions
 
 Here are the screen shots of the results:
-![4_product_sales_1](https://github.com/user-attachments/assets/e7cd0272-e552-4d4f-a17b-0ba8358c715b)
+https://github.com/vithi2006/Excel/blob/main/pivot%202.png
 
-<img width="481" alt="4_product_sales_2" src="https://github.com/user-attachments/assets/1c49532f-c1b5-4546-9a4b-bf6adac52de9" />
+https://github.com/vithi2006/Excel/blob/main/pivot%203.png
 
 
 ## Project 5: Showing visualisations
 
-This project used the Bike_Sales_Visualisations dataset: [Bike_Sales_Visualisations.xlsx](https://github.com/user-attachments/files/18152377/Bike_Sales_Visualisations.xlsx)
+This project used the Bike_Sales_Visualisations dataset:
 
 In this project, I:
 * created a line chart for Revenue vs Profit
@@ -68,3 +67,6 @@ In this project, I:
 * created a pie chart to show comparisons between age groups
 
 Here are the screen shots of the results:
+https://github.com/vithi2006/Excel/blob/main/excel%20visualization.png
+
+https://github.com/vithi2006/Excel/blob/main/visualization%202.png
